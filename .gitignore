@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+tmp/**
+__pycache__
+*.pyc
+
+.DS_Store
+
+.idea
+.project
+.pydevproject
+
+*~
+\#*\#
+
+*.o
